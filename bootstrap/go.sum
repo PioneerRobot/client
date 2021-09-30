@@ -1,0 +1,6 @@
+github.com/PioneerRobot/core v0.0.1-alpha h1:hl7p+M0C4XR7RJx3NealpUz4NrWN/SAdkbFtQRJcT4g=
+github.com/PioneerRobot/core v0.0.1-alpha/go.mod h1:+fyiKHMxKYEXqzk2kqFOkxAbjp8zTXu7vFdgtWnyWYw=
+github.com/PioneerRobot/plugin v0.0.1-alpha h1:NQ+d5lc2Gn4G5AcK3+SkBBiGZxo0dRvd7/pImEJUObI=
+github.com/PioneerRobot/plugin v0.0.1-alpha/go.mod h1:sqcUPKnft9/pcublViZeBPdtwQqg0KzkeqbJCd67/Lw=
+github.com/PioneerRobot/simple v0.0.1-alpha h1:TY6aRbXPKHkyFzt59gpaE7f7jIbRb1CDEMlDpPVNUEk=
+github.com/PioneerRobot/simple v0.0.1-alpha/go.mod h1:tZ8FqTx7+rx26PGL/c6fT4GBMFJgQ8qPx/J0PXQFfS8=
